@@ -72,7 +72,7 @@ Event Trigger: Message Sent
 Enabled: true
 Name: Rasa WebHook 
 Channel: #general
-URLs: http://bot:5005/webhooks/rocketchat/webhook
+URLs: http://rasa:5005/webhooks/rocketchat/webhook
 Post as: rasa_bot
 ```
 
