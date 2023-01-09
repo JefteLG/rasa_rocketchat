@@ -22,8 +22,8 @@ Passo a passo de como realizar uma integração do Rocket.Chat com Rasa.
 * Configure o `credentials.yml` de acordo com o bot criado no passo 2.3
   ```sh
   rocketchat:
-    user: "rasabot"
-    password: "rasabot"
+    user: "rasa_bot"
+    password: "rasa_bot"
     server_url: "http://rocketchat:3000"
   ```
 
