@@ -16,6 +16,13 @@ nlu:
     - goodmorning
     - goodevening
     - good afternoon
+  
+- intent: overflow
+  examples: |
+    - overflow
+    - transfer
+    - human
+    - attendance
 
 - intent: goodbye
   examples: |
